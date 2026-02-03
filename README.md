@@ -35,5 +35,35 @@ Interactive slicers (Brand, Location, Month, Year )
 
 📈 Business Insights
 
+Delhi and Chandigarh are the top revenue-generating locations, suggesting urban markets drive higher profitability.
+
+Curd and Yogurt show high reorder quantities, signaling consistent customer demand and the need for strong inventory planning.
+
+Retail is the leading sales channel, especially for Curd and Ice Cream, highlighting the importance of direct-to-consumer strategies.
+
+Wholesale performs strongly for Paneer and Cheese, making them ideal for bulk partnerships.
+
+Frozen storage offers the longest shelf life, helping reduce spoilage and improve stock efficiency.
+
+Milk maintains stable sales across all channels, indicating predictable demand.
+
+Maharashtra shows high land area but comparatively lower revenue, suggesting an opportunity to improve farm productivity.
+
+Strategic Opportunities :- Expand retail presence in high-performing cities to maximize revenue, Increase production of fast-moving products like Curd and Yogurt, Optimize underperforming regions to better utilize land resources. It highlights that urban locations, retail-driven sales, and high-demand dairy products are the primary drivers of revenue, enabling smarter inventory and expansion decisions.
+
+🚀 How to Use
+
+Download the Dairy Farm Dashboard.pbix file 
+
+Open in Power BI Desktop 
+
+Refresh data if needed
+
+Contact Saumyadeep Bardhan
+
+gmail:- saumyadeep4u@gmail.com
+
+linkedin :- www.linkedin.com/in/saumyadeep-bardhan-1970611b6
+
 
 
