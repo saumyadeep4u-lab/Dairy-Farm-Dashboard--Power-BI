@@ -11,9 +11,9 @@ Power BI, DAX, Power Query, Data Modeling (Star Schema)
 
 📐 Data Modeling
 
-Fact table (center) :- dairy_dataset
+Fact table :- dairy_dataset
 
-Dimension table (surrounding) :- Date_Table
+Dimension table :- Date_Table
 
 Proper relationships with single-direction filtering
 
